@@ -7,8 +7,8 @@
    </ul>
  required command: 
    (Home-brew)
-```code
-   /bin/bash -c "$(curl -fsSL        https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```js
+    /bin/bash -c "$(curl -fsSL        https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     brew install rectangle 
     brew install visual-studio-code
     brew install min
