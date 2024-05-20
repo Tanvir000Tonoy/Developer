@@ -7,14 +7,13 @@
    </ul>
  required command: 
    (Home-brew)
-
-    (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/otaku/.zprofile
-    eval "$(/opt/homebrew/bin/brew shellenv)"
-
+```code
+   /bin/bash -c "$(curl -fsSL        https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     brew install rectangle 
     brew install visual-studio-code
     brew install min
     brew install anki
+ ```
                                 15 May 2024
 
 What Have I Done step by step:
