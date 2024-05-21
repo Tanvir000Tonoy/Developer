@@ -7,14 +7,24 @@
    </ul>
  required command: 
    (Home-brew)
-```js
+
     /bin/bash -c "$(curl -fsSL        https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+installing React angle
+
     brew install rectangle 
+
+installing React angle
+
     brew install visual-studio-code
+
+installing React angle Min
+
     brew install min
+installing React angle
+
     brew install anki
- ```
-                                15 May 2024
+ 
+Date :  15 May 2024
 
 What Have I Done step by step:
 
