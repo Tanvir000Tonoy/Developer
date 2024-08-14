@@ -10,4 +10,5 @@ HI I'M TANVIR TONOY. I'M A SIMPLE BOY WHO LOVES CODING AND MATHMATICS. PROBLEM S
     [] PHP
     [Done]  C
     [Done]  C++
+    [Done]  Python
 ```
