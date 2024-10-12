@@ -30,8 +30,14 @@ What Have I Done step by step:
 
     1.Xcode command-line-tools
     2.Home brew
-    3.rectangle
-    4.vs code
-    5.jan -offline ai
-    6.anki - Enlish flashCard
+        packages:
+            1.rectangle
+            2.vs code
+            3.anki - Enlish flashCard
+            4.ChatGpt
+            5.Github
+
+    3.jan -offline ai
+    
+    
     
