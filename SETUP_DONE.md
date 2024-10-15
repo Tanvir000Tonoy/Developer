@@ -38,6 +38,7 @@ What Have I Done step by step:
             5.Github
 
     3.jan -offline ai
-    
+    4.Android-studio installation 
+    5.storage management process began from 15 october 2024. 
     
     
