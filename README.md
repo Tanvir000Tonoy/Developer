@@ -6,9 +6,11 @@ HI I'M TANVIR TONOY. I'M A SIMPLE BOY WHO LOVES CODING AND MATHMATICS. PROBLEM S
 ```
     [Done]  HTML
     [Done]  CSS
-    [] JS
-    [] PHP
+    [70%] JS
+    [10%] PHP
     [Done]  C
     [Done]  C++
     [Done]  Python
+    [Loading] Kotlin
+    
 ```
