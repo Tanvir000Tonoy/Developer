@@ -13,4 +13,5 @@ HI I'M TANVIR TONOY. I'M A SIMPLE BOY WHO LOVES CODING AND MATHMATICS. PROBLEM S
     [Done]  Python
     [Loading] Kotlin
     [Excited] IELTS result - 6.5 overall 
+    [] Discrete math
 ```
